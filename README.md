@@ -3,6 +3,9 @@
 
 PotholePatrol is an AI-driven solution aimed at improving road safety and maintenance efficiency by automatically detecting potholes and other road damages using deep learning techniques.
 
+![image](https://github.com/YochaiKariv/PotholePatrol/assets/143042970/53633c36-5104-4236-8a98-6cf4041b95c7)
+
+
 ## Our Mission
 
 At PotholePatrol, our mission is to enhance the road travel experience by ensuring timely and proactive road maintenance. By identifying road damages using AI, we aim to assist local governments and road authorities in prioritizing and addressing road repairs, thus reducing vehicle damage and promoting safer driving conditions.
