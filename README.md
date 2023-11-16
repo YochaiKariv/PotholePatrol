@@ -43,6 +43,7 @@ By implementing PotholePatrol:
 - Drivers experience safer roads and reduced vehicle repair costs.
 - Insurance companies benefit from fewer claims related to road damage.
 
-
+## Alexnet W&b
+https://colab.research.google.com/drive/19W2n-ZabN1t8yhul5PZrbMAbrxJ6PvPd#scrollTo=WANJibeUNghZ
 ---
 
