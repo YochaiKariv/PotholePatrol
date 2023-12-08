@@ -45,5 +45,7 @@ By implementing PotholePatrol:
 
 ## Alexnet W&b
 https://colab.research.google.com/drive/19W2n-ZabN1t8yhul5PZrbMAbrxJ6PvPd#scrollTo=WANJibeUNghZ
+
+https://wandb.ai/ykariv2022/Linear_Model_Photo_1?workspace=user-ykariv2022
 ---
 
